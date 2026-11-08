@@ -1,7 +1,7 @@
 {
-  "version": "1.0.108",
-  "build": 108,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.108/Notchly.zip",
-  "sha256": "93b8451c423dd32fe1a8d8458e77349ca0612bbe27ecf93fa9717f48d7721dde",
-  "notes": "Merge pull request #7 from farisemha-beep/openbot-bar"
+  "version": "1.0.109",
+  "build": 109,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.109/Notchly.zip",
+  "sha256": "4ac2534dbf0b07457e73a6229867ccd3ac40297ac9b186553a28f9cc3797bf97",
+  "notes": "Merge pull request #8 from farisemha-beep/settings-gear"
 }
