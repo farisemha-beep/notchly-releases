@@ -1,7 +1,7 @@
 {
-  "version": "1.0.115",
-  "build": 115,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.115/Notchly.zip",
-  "sha256": "36b703d236a3ee25e128a1498e908ed4fd9613c9c813dca72183ca276d3d380d",
-  "notes": "Merge pull request #14 from farisemha-beep/openbot-dock-v3"
+  "version": "1.0.116",
+  "build": 116,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.116/Notchly.zip",
+  "sha256": "d31314fd629983cea68aa7a8dae494dac2bd7db673c32e3a47098dd428904acc",
+  "notes": "Merge pull request #15 from farisemha-beep/code-paste-fix"
 }
