@@ -1,7 +1,7 @@
 {
-  "version": "1.0.109",
-  "build": 109,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.109/Notchly.zip",
-  "sha256": "4ac2534dbf0b07457e73a6229867ccd3ac40297ac9b186553a28f9cc3797bf97",
-  "notes": "Merge pull request #8 from farisemha-beep/settings-gear"
+  "version": "1.0.111",
+  "build": 111,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.111/Notchly.zip",
+  "sha256": "f6698798934bae0a7e47b8ffeb3f02c5d3e57de6fb52a6fce880e2cfba49a008",
+  "notes": "Merge pull request #10 from farisemha-beep/fix-umask-race"
 }
