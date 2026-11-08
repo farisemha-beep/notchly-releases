@@ -1,7 +1,7 @@
 {
-  "version": "1.0.101",
-  "build": 101,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.101/Notchly.zip",
-  "sha256": "0b9eac496cc7cfd84623767d96c822b6a3baede014bfe03d3df8a37ae2aa8207",
-  "notes": "Merge pull request #1 from farisemha-beep/breezeit-roadmap"
+  "version": "1.0.102",
+  "build": 102,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.102/Notchly.zip",
+  "sha256": "cf60ca11e060aea36d645767b33c4f48e8eba48f961049ce1d23d791f1e8d6d0",
+  "notes": "Merge pull request #2 from farisemha-beep/agent-hub-p1"
 }
