@@ -1,7 +1,7 @@
 {
-  "version": "1.0.113",
-  "build": 113,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.113/Notchly.zip",
-  "sha256": "b9c1216ec9a5abd85857146fef6b3cb1099b981c5ee25aa8f0910722df0d48d2",
-  "notes": "Merge pull request #12 from farisemha-beep/dock-v2"
+  "version": "1.0.114",
+  "build": 114,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.114/Notchly.zip",
+  "sha256": "372ca54f0da47832ed8383ee5254787669fd93d47449ac274899dfeff4210589",
+  "notes": "Merge pull request #13 from farisemha-beep/usage-view"
 }
