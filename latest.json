@@ -1,7 +1,7 @@
 {
-  "version": "1.0.106",
-  "build": 106,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.106/Notchly.zip",
-  "sha256": "d043471c26ef1318b5648665b6f8c5d11151c01ac1c71f8c9a8fbce97b5ed866",
-  "notes": "Merge pull request #6 from farisemha-beep/agent-hub-p5"
+  "version": "1.0.107",
+  "build": 107,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.107/Notchly.zip",
+  "sha256": "b0502c4519377577e86e37b47429a9f24489321f79ef5df2d6263aa098fb94b1",
+  "notes": "chore(security): ignore secret files (.env, .dev.vars, *.pem, *.key)"
 }
