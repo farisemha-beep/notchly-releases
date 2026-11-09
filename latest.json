@@ -1,7 +1,7 @@
 {
-  "version": "1.0.117",
-  "build": 117,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.117/Notchly.zip",
-  "sha256": "bc57b5c43f916374d9dc6c1ad81bbfb46c78c2feacba79cca54d46f685c5a70c",
-  "notes": "Dock v4: attach files, hover face, working … menu, colored logos (#17)"
+  "version": "1.0.118",
+  "build": 118,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.118/Notchly.zip",
+  "sha256": "802ca4a498c82a4ac12c753f310b0c9e0b07174970900b85248d4ad36d7469cd",
+  "notes": "Usage dock: drop the OpenCode ring (#18)"
 }
