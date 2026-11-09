@@ -1,7 +1,7 @@
 {
-  "version": "1.0.116",
-  "build": 116,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.116/Notchly.zip",
-  "sha256": "d31314fd629983cea68aa7a8dae494dac2bd7db673c32e3a47098dd428904acc",
-  "notes": "Merge pull request #15 from farisemha-beep/code-paste-fix"
+  "version": "1.0.117",
+  "build": 117,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.117/Notchly.zip",
+  "sha256": "bc57b5c43f916374d9dc6c1ad81bbfb46c78c2feacba79cca54d46f685c5a70c",
+  "notes": "Dock v4: attach files, hover face, working … menu, colored logos (#17)"
 }
