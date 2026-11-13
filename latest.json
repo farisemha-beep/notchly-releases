@@ -1,7 +1,7 @@
 {
-  "version": "1.0.118",
-  "build": 118,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.118/Notchly.zip",
-  "sha256": "802ca4a498c82a4ac12c753f310b0c9e0b07174970900b85248d4ad36d7469cd",
-  "notes": "Usage dock: drop the OpenCode ring (#18)"
+  "version": "1.0.119",
+  "build": 119,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.119/Notchly.zip",
+  "sha256": "e3f21f60657f5588eae193ce331caac02e011fa9136a1696071c9f4462743e85",
+  "notes": "Automation: notchly:// commands (status, shelf add, music keys) for Del and Shortcuts (#20)"
 }
