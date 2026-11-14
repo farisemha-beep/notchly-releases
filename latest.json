@@ -1,7 +1,7 @@
 {
-  "version": "1.0.119",
-  "build": 119,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.119/Notchly.zip",
-  "sha256": "e3f21f60657f5588eae193ce331caac02e011fa9136a1696071c9f4462743e85",
-  "notes": "Automation: notchly:// commands (status, shelf add, music keys) for Del and Shortcuts (#20)"
+  "version": "1.0.120",
+  "build": 120,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.120/Notchly.zip",
+  "sha256": "06b8c54780d2b59838199081d57a37c5764c486c1f6abe75e80e233d080e5648",
+  "notes": "Notch: show OpenBot's agents in the open notch (#21)"
 }
