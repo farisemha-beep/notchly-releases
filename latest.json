@@ -1,7 +1,7 @@
 {
-  "version": "1.0.121",
-  "build": 121,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.121/Notchly.zip",
-  "sha256": "b86ac7cb8481e52d81b1d57309dec66adcb243da5447c1f7afb8c9f1738426b1",
-  "notes": "Usage dock: plan limits first, then credit (Venice, DeepSeek, Sumopod); Sumopod spend; divider (#23)"
+  "version": "1.0.122",
+  "build": 122,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.122/Notchly.zip",
+  "sha256": "777cf277468ad86072498810a1f7b9a4bfafdb5667aab660d8db25eec167b72d",
+  "notes": "Usage dock: credit rings show money left, spent and a used bar; Sumopod logo (#24)"
 }
