@@ -1,7 +1,7 @@
 {
-  "version": "1.0.120",
-  "build": 120,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.120/Notchly.zip",
-  "sha256": "06b8c54780d2b59838199081d57a37c5764c486c1f6abe75e80e233d080e5648",
-  "notes": "Notch: show OpenBot's agents in the open notch (#21)"
+  "version": "1.0.121",
+  "build": 121,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.121/Notchly.zip",
+  "sha256": "b86ac7cb8481e52d81b1d57309dec66adcb243da5447c1f7afb8c9f1738426b1",
+  "notes": "Usage dock: plan limits first, then credit (Venice, DeepSeek, Sumopod); Sumopod spend; divider (#23)"
 }
