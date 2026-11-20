@@ -1,7 +1,7 @@
 {
-  "version": "1.0.123",
-  "build": 123,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.123/Notchly.zip",
-  "sha256": "76b9f73eab4eaaaa9ef23bd92fb1acf815d87890d601f12e33aa532f7005651b",
-  "notes": "OpenBot strip: name chips in one tile, evenly spread, idle dimmed, gap above music"
+  "version": "1.0.124",
+  "build": 124,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.124/Notchly.zip",
+  "sha256": "9e0cb2cb18f14e302cf798d1caefc2cc4989828d87863545c7aa4714a84afe93",
+  "notes": "Make the usage and agent bar easy to hide and restore (#25)"
 }
