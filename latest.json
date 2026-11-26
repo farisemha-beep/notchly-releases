@@ -1,7 +1,7 @@
 {
-  "version": "1.0.125",
-  "build": 125,
-  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.125/Notchly.zip",
-  "sha256": "ba2653cb573e1b69c7dc5c5ff870d10f9e8d5f1b7b6971615a7f18684c69b7a5",
-  "notes": "Usage bar only mode: no notch, shelf, hotkeys or hooks; the right-edge bar shows usage (#26)"
+  "version": "1.0.126",
+  "build": 126,
+  "url": "https://github.com/farisemha-beep/notchly-releases/releases/download/v1.0.126/Notchly.zip",
+  "sha256": "7067e715ecf46467aa8836f22d20bcda9a616995569e094534e23df66748d4da",
+  "notes": "Settings: Usage bar only toggle (#27)"
 }
